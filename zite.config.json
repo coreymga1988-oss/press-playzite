@@ -1,0 +1,12 @@
+{
+  "id": "35rm4d1pfn",
+  "accessMode": "external",
+  "authentication": {
+    "signup": "open",
+    "authenticationMethods": {
+      "magicLink": true,
+      "googleSignIn": true,
+      "sso": false
+    }
+  }
+}
